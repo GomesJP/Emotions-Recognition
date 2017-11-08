@@ -1,10 +1,19 @@
 # Emotions-Recognition
+ with a webcam
 
 Download the fer2013 dataset from kaggle:
 
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 unzip it to get the csv file copy it to the data folder.
+
+# Installation
+
+Create a conda environment and install the required packages with the following commands:
+
+conda create --name emotions-recognition
+activate emotions-recognition
+conda install opencv pandas pytables matplotlib keras scikit-learn tensorflow ipykernel
 
 # Project
 
