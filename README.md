@@ -12,7 +12,9 @@ unzip it to get the csv file copy it to the data folder.
 Create a conda environment and install the required packages with the following commands:
 
 conda create --name emotions-recognition
+
 activate emotions-recognition
+
 conda install opencv pandas pytables matplotlib keras scikit-learn tensorflow ipykernel
 
 # Project
