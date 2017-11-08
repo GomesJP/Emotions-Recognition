@@ -1,5 +1,5 @@
 # Emotions-Recognition
- with a webcam
+
 
 Download the fer2013 dataset from kaggle:
 
